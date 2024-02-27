@@ -17,7 +17,7 @@ Playwright test runner
     git clone <gh repo clone RakibulIslam29/LiveRecover-Automated-Testing-Project>
 
     2. Navigate to the project directory:
-    cd <project-directory>
+    cd <Your-project-directory>
 
     3. Install dependencies:
     npm install
