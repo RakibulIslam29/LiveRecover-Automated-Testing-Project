@@ -14,7 +14,7 @@ Playwright test runner
 
 # Installation
     1. Clone this repository to your local machine:
-    git clone <repository-url>
+    git clone <gh repo clone RakibulIslam29/LiveRecover-Automated-Testing-Project>
 
     2. Navigate to the project directory:
     cd <project-directory>
